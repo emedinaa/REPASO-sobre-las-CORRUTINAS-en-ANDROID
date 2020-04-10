@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=KqLtW8d8PXY
 
 - Branch 09 : 1:00 - 1:05 (Tests + Coroutines)
 
-- Branch 10 : 1:05 - 1:26 (Tests)
+- Branch 10 : 1:05 - 1:08 (Tests)
+
+- Branch 11 : 1:08 - 1:26 (Tests + TestRule)
 
 
 ## Referencias
