@@ -15,7 +15,13 @@ https://www.youtube.com/watch?v=KqLtW8d8PXY
 
 - Branch 06 : 36 - 39 (async/await -parallel operations)
 
-- Branch 07 : 39 - 40 (async/await -parallel operations)
+- Branch 07 : 39 - 48 (ViewModel)
+
+- Branch 08 : 48 - 1:00 (Tests)
+
+- Branch 09 : 1:00 - 1:10 (Tests)
+
+- Branch 10 : 1:10 - 1:26 (Tests)
 
 ## Referencias
 
